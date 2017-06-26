@@ -1,4 +1,3 @@
-Dockerfile
 FROM centos:7
 
 # ensure local python is preferred over distribution python
